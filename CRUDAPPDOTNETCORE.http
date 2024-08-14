@@ -1,0 +1,6 @@
+@CRUDAPPDOTNETCORE_HostAddress = http://localhost:5231
+
+GET {{CRUDAPPDOTNETCORE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
